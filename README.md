@@ -1,7 +1,7 @@
 # ISSUE TRACKER
 A web based App to tack the issues in project. 
 
-Hosted Link :- https://project-bugs-tracker.herokuapp.com/
+Hosted Link :- https://issue-trackervk.herokuapp.com/
 
 ### Tech/Framework used
 - ExpressJS
